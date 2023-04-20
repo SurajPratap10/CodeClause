@@ -10,5 +10,5 @@
 
 ## LINKS:
 1) Live Site: https://unit-converter-codeclause.netlify.app/
-2) Linkedin Post: 
+2) Linkedin Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_internship-webdeveloper-codeclause-activity-7054894795361546240-4hWB?utm_source=share&utm_medium=member_desktop
 3) Github Repo: https://github.com/SurajPratap10/CodeClause/new/main/Unit%20Converter
