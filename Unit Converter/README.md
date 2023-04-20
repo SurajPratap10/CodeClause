@@ -3,7 +3,7 @@
 ## TECH STACK USED:
 1) HTML
 2) CSS
-3) JS
+3) JAVASCRIPT
 
 ## DEMO PIC:
 ![image](https://user-images.githubusercontent.com/92919173/233283263-c9c036fb-1b2e-45e9-898d-18bcc8f15925.png)
