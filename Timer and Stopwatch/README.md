@@ -13,5 +13,5 @@
 
 ## LINKS:
 1) Live Site: https://unit-converter-codeclause.netlify.app/
-2) Linkedin Post: 
+2) Linkedin Post: https://www.linkedin.com/posts/suraj-pratap-948a92225_internship-webdeveloper-codeclause-activity-7055059946060599296-2T2L?utm_source=share&utm_medium=member_desktop
 3) Github Repo: https:https://github.com/SurajPratap10/CodeClause/tree/main/Timer%20and%20Stopwatch
