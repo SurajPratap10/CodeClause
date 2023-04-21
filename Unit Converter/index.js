@@ -152,22 +152,7 @@ window.onload = function(e) {
   UpdateUnitMenu(document.property_form.the_menu, document.form_B.unit_menu)
 }
 
-// document.getElementByClass('numbersonly').addEventListener('keydown', function(e) {
-//   var key = e.keyCode ? e.keyCode : e.which;
 
-//   if (!([8, 9, 13, 27, 46, 110, 190].indexOf(key) !== -1 ||
-//       (key == 65 && (e.ctrlKey || e.metaKey)) || 
-//       (key == 67 && (e.ctrlKey || e.metaKey)) || 
-//       (key == 86 && (e.ctrlKey || e.metaKey)) || 
-//       (key >= 35 && key <= 40) || 
-//       (key >= 48 && key <= 57 && !(e.shiftKey || e.altKey)) || 
-//       (key >= 96 && key <= 105) 
-//       (key == 190) 
-//     )) e.preventDefault();
-// });
-
-//your code giving error : caught TypeError: document.getElementByClass is not a function
- //   at index.js:155:10
 
 document.getElementsByClassName('numbersonly')[0].addEventListener('keydown', function(e) {
   var key = e.keyCode ? e.keyCode : e.which;
